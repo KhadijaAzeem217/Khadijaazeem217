@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Khadija 👋
 
-<!--
-**KhadijaAzeem217/Khadijaazeem217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Cybersecurity & Data Analytics Enthusiast**  
+I’m exploring two exciting fields at once:  
+- 🔐 **Cybersecurity**: Pentesting, SOC basics, network security  
+- 📊 **Data Analytics**: Python, SQL, Power BI, pandas  
 
-Here are some ideas to get you started:
+📂 On this GitHub, you’ll find:  
+- 🛡️ **Cybersecurity Projects** → Labs, pentesting notes, vulnerability testing, automation scripts.  
+- 📈 **Data Analytics Projects** → SQL queries, Python notebooks, Power BI dashboards.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently learning:  
+- Cybersecurity tools (Kali Linux, Burp Suite, Wireshark)  
+- Data analytics stack (Python, pandas, SQL, Power BI)  
+
+📫 Connect with me:  [Email](mailto:khadijaazeem217@gmail.com)
